@@ -7,13 +7,16 @@ body{
     background: url(/images/bg-desktop.svg);
     
 }
-h1{
-    font-family: Poppins;
+h2{
+image: url(/images/bg-mobile.svg);
 }
 p{
-    image: url(/images/illustration-mockups.svg);
 
 }
 button{
+    text-align: right;
 
+}
+.mobile{
+    align-content: center;
 }
