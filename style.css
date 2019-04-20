@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    position: relative;
+    width: 100%;
+    background: url(/images/bg-desktop.svg);
+    
+}
+h1{
+    font-family: Poppins;
+}
+p{
+    image: url(/images/illustration-mockups.svg);
+
+}
+button{
+
+}
